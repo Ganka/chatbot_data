@@ -1,0 +1,38 @@
+
+{
+
+  "status": "success",
+
+  "reviews": [
+
+    {
+
+      "category": "customer_service",
+
+      "customerName": "Ganka",
+
+      "customerPhone": "9000090000",
+
+      "customerEmail": "gankatharan.c@hcl.com",
+
+      "comment": "I gain benefit from your golden edge loan repayment scheme"
+
+    },
+
+    {
+
+      "category": "enquiry",
+
+      "customerName": "Tharan",
+
+      "customerPhone": "9000190001",
+
+      "customerEmail": "gankatharan.c+tharan@hcl.com",
+
+      "comment": "it was waste of my time and effort of mine. Is that such a big task surrendering credit card? How many times should I visit the branch for this simple request. Frustrating..."
+
+    }
+
+  ]
+
+}
